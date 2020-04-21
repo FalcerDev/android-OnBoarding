@@ -1,0 +1,2 @@
+rootProject.name='OnBoard'
+include ':app'
